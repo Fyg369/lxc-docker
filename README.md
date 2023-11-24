@@ -6,7 +6,7 @@
 
 # 关闭:ANDROID_PARANOID_NETWORK
 
-# CONFIG_ANDROID_PARANOID_NETWORK is not set
+#..CONFIG_ANDROID_PARANOID_NETWORK is not set
 
 # 打补丁1(有则打无则过)
 xt_qtagui.patch

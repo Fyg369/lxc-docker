@@ -74,6 +74,7 @@ groupadd -g 3003 aid_inet && usermod -G nogroup -g aid_inet _apt
 ## Reference
 
 - [wu17481748/lxc-docker](https://github.com/wu17481748/lxc-docker)
+- [FreddieOliveira/docker.md](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
 - [Flyme66/LXC-DOCKER-KernelSU_Action](https://github.com/Flyme66/LXC-DOCKER-KernelSU_Action)
 - [DogDayAndroid/Android-Builder](https://github.com/DogDayAndroid/Android-Builder)
 - [tomxi1997/lxc-docker-support-for-android](https://github.com/tomxi1997/lxc-docker-support-for-android)
